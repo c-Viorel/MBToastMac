@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MBToastMac'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'MBToastMac: Simple. Efficient. Toasts for macOS. Crafted with Swift. Enhance user interactions. No frills. Just performance.'
   s.swift_versions   = '5.0'
   
