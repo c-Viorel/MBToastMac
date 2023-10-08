@@ -1,6 +1,5 @@
 # MBToastMac
 
-[![CI Status](https://img.shields.io/travis/Viorel P/MBToastMac.svg?style=flat)](https://travis-ci.org/Viorel P/MBToastMac)
 [![Version](https://img.shields.io/cocoapods/v/MBToastMac.svg?style=flat)](https://cocoapods.org/pods/MBToastMac)
 [![License](https://img.shields.io/cocoapods/l/MBToastMac.svg?style=flat)](https://cocoapods.org/pods/MBToastMac)
 [![Platform](https://img.shields.io/cocoapods/p/MBToastMac.svg?style=flat)](https://cocoapods.org/pods/MBToastMac)
