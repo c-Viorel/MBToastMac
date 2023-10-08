@@ -4,7 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/MBToastMac.svg?style=flat)](https://cocoapods.org/pods/MBToastMac)
 [![Platform](https://img.shields.io/cocoapods/p/MBToastMac.svg?style=flat)](https://cocoapods.org/pods/MBToastMac)
 
-![Toast Icon](https://github.com/c-Viorel/MBToastMac/blob/main/Example/toast_icon.png)
+<p align="center">
+  <img src="https://github.com/c-Viorel/MBToastMac/blob/main/Example/toast_icon.png?raw=true" alt="Toast Icon">
+</p>
+
 
 ## MBToastMac: Toasts for macOS. Crafted in Swift.
 
@@ -24,7 +27,7 @@
 
   Dive into MBToast – where minimalism meets function. Elevate your user feedback and make every message count.
   
-  ![Toast Eaxample](https://github.com/c-Viorel/MBToastMac/blob/main/Example/MBToast_description.gif)
+  ![Toast Eaxample](https://github.com/c-Viorel/MBToastMac/blob/main/Example/MBToast_description.gif?raw=true)
 
 
 ## Example
