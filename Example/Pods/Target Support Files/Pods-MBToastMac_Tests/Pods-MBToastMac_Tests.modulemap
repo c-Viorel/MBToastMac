@@ -1,0 +1,6 @@
+framework module Pods_MBToastMac_Tests {
+  umbrella header "Pods-MBToastMac_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MBToastMac {
+  umbrella header "MBToastMac-umbrella.h"
+
+  export *
+  module * { export * }
+}

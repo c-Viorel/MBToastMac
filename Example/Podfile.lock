@@ -1,0 +1,16 @@
+PODS:
+  - MBToastMac (0.1.0)
+
+DEPENDENCIES:
+  - MBToastMac (from `../`)
+
+EXTERNAL SOURCES:
+  MBToastMac:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBToastMac: 069e101b3f5c7983af89db714f3632fa70c50863
+
+PODFILE CHECKSUM: c75b42c736ba7b142f29a392909bbd0f31be7f53
+
+COCOAPODS: 1.12.1
