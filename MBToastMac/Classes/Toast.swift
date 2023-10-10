@@ -68,9 +68,6 @@ public struct MBToastStyleSuccess: Style {
     public init() {}
     public var backgroundColor: NSColor { return NSColor(red: 0.9098, green: 0.9608, blue: 0.9137, alpha: 1.0) } // #E8F5E9
     public var foregroundColor: NSColor { return NSColor(red: 0.4, green: 0.7333, blue: 0.4157, alpha: 1.0) } // #66BB6A
-    let successBackground = NSColor(red: 0.9098, green: 0.9608, blue: 0.9137, alpha: 1.0) // #E8F5E9
-    let successText = NSColor(red: 0.4, green: 0.7333, blue: 0.4157, alpha: 1.0) // #66BB6A
-
 }
 
 public struct MBToastStyleWarning: Style {

@@ -76,20 +76,21 @@ You have the ability to fully customize the appearance and behavior of the toast
 
 ### `Style` Protocol Properties:
 
-- **fontSize**: Font size of the message.
-- **horizontalMargin**: Horizontal margin for the toast.
-- **verticalMargin**: Vertical margin for the toast.
-- **cornerRadius**: Corner radius of the toast.
-- **font**: Font of the message.
-- **backgroundColor**: Background color of the toast.
-- **foregroundColor**: Text color of the message.
-- **fadeInOutDuration**: Duration of the fade in/out animations.
-- **fadeInOutDelay**: Delay before the fade out begins.
-- **labelOriginWithMargin**: Origin point of the message label with margins.
-- **activitySize**: Size of the progress indicator.
-- **position**: Position of the toast on the screen.
-- **icon**: Optional icon image. Default is nil.
-- **iconTint**: Tint color for the icon. (if provided)
+| Property               | Description                                        |
+|------------------------|----------------------------------------------------|
+| **fontSize**               | Font size of the message.                          |
+| **horizontalMargin**       | Horizontal margin for the toast.                   |
+| **verticalMargin**         | Vertical margin for the toast.                     |
+| **cornerRadius**           | Corner radius of the toast.                        |
+| **font**                   | Font of the message.                               |
+| **backgroundColor**        | Background color of the toast.                     |
+| **foregroundColor**        | Text color of the message.                         |
+| **fadeInOutDuration**      | Duration of the fade in/out animations.            |
+| **fadeInOutDelay**         | Delay before the fade out begins.                  |
+| **labelOriginWithMargin**  | Origin point of the message label with margins.    |
+| **activitySize**           | Size of the progress indicator.                    |
+| **position**               | Position of the toast on the screen.               |
+| **icon**                   | Optional icon image. Default is nil.               |
 
 ### Custom Style Example:
 
@@ -130,6 +131,8 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'MBToastMac'
 ```
+
+You may also opt to download the project and integrate the MBToastMac directory into your existing project for a more streamlined approach.
 
 ## Author
 
