@@ -125,12 +125,27 @@ self.view.makeToast("Custom styled toast", style: CustomToastStyle())
 
 ## Installation
 
-MBToast is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+### CocoaPods
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate MBToast into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 pod 'MBToastMac'
 ```
+
+### Swift Package Manager
+
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
+
+Once you have your Swift package set up, adding MBToast as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift` or the Package list in Xcode.
+
+```swift
+	dependencies: [
+		.Package(url: "https://github.com/c-Viorel/MBToastMac.git", .upToNextMajor(from: "1.0.3"))
+	]
+```
+
+### Manually
 
 You may also opt to download the project and integrate the MBToastMac directory into your existing project for a more streamlined approach.
 
@@ -142,4 +157,4 @@ You may also opt to download the project and integrate the MBToastMac directory 
 
 ## License
 
-MBToast is available under the MIT license. See the LICENSE file for more info.
+MBToast is available under the MIT license. [See LICENSE](https://github.com/c-Viorel/MBToastMac/blob/main/LICENSE) for details.
